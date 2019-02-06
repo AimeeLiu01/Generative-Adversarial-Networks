@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/liuchang/PycharmProjects/GAN_mnist/checkpoints/generator.ckpt"
+all_model_checkpoint_paths: "/Users/liuchang/PycharmProjects/GAN_mnist/checkpoints/generator.ckpt"
